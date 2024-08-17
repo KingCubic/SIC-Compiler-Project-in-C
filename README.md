@@ -1,1 +1,1 @@
-This project was for the systems software course at UNF. It utilizes C to input a script written in SIC and output machine level code that can be ran on the SIC execution application. It consists of two passes.
+This project was for the systems software course at UNF. It utilizes C to input a script written in SIC and output machine level code that can be ran on the SIC execution application. It consists of two passes, both of which can be found in the main.c file.
